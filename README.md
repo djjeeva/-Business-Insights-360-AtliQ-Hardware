@@ -24,7 +24,7 @@ I worked on this project by following the [Codebasics Power BI Course](https://c
 - **Data Validation and Error Prevention**: Leveraged data validation techniques and conditional formatting for enhanced accuracy.
 - **Automation and Collaboration**: Published to Power BI Services, with auto-refresh using personal gateway, Power BI App creation, and workspace management.
 
----
+
 
 ## Business and Domain Knowledge Applied
 - **Finance**: Gross Price, Net Sales, Gross Margin, Net Profit.
@@ -33,7 +33,7 @@ I worked on this project by following the [Codebasics Power BI Course](https://c
 - **Executive View**: provide overall insights to stakeholders
 
 
----
+
 
 ## Data Overview
 Understanding the datasets was key to efficient analysis. Data was reviewed for accurate model design, helping avoid performance issues.
@@ -51,7 +51,7 @@ Understanding the datasets was key to efficient analysis. Data was reviewed for 
 - **Cost Tables**:
   - `freight_cost`, `gross_price`, `manufacturing_cost`, `pre_invoice_deductions`, `post_invoice_deductions`: Detailing costs and deductions per market, product code, and year.
 
----
+
 
 ## Data Import and Modeling
 Data was imported from MySQL, with a Snowflake schema for optimal performance. Following good modeling practices ensured a reliable foundation for visuals.
@@ -59,7 +59,7 @@ Data was imported from MySQL, with a Snowflake schema for optimal performance. F
 
 ![Alt text](Screenshot 2024-10-25 131223.png)
 
----
+
 
 ## Dashboard Design
 Mockups informed a design focused on clear navigation and segmented views for different departments.
@@ -76,7 +76,7 @@ The central hub with buttons for each view, allowing users to quickly access spe
 - **Executive Overview**
 - **Support**
 
----
+
 
 ## Project Outcome
 
