@@ -5,9 +5,7 @@ AtliQ Hardware, experiencing rapid growth, has implemented Power BI analytics to
 
 I worked on this project by following the [Codebasics Power BI Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project), which provided comprehensive training and practical experience.
 
-[Live Report Link](#)
 
----
 
 ## Tech Stack
 - **SQL**
@@ -17,7 +15,6 @@ I worked on this project by following the [Codebasics Power BI Course](https://c
 - **DAX Studio** (for performance optimization)
 - **Project Charter File**
 
----
 
 ## Key Power BI Techniques Learned
 - **Initial Project Planning**: Defined objectives, metrics, and timelines based on stakeholder input.
