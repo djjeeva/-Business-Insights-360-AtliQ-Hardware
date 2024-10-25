@@ -1,4 +1,4 @@
-#Business-Insights-360-AtliQ-Hardware
+# Business-Insights-360-AtliQ-Hardware
 
 ## Project Overview
 AtliQ Hardware, experiencing rapid growth, has implemented Power BI analytics to drive data-based decisions across finance, sales, marketing, and supply chain. This project is AtliQ's first venture into analytics, designed to provide valuable insights to compete effectively and guide stakeholders' decision-making.
